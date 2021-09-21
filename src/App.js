@@ -6,7 +6,7 @@ import React from 'react'
 // import Covid from './All_practice/Covid-19 project/Covid'
 // import CounterApp from './All_practice/New small thapa video/CounterApp'
 // import Clock from './All_practice/New small thapa video/Clock'
-import RealTimeClock from './All_practice/New small thapa video/RealTimeClock'
+// import RealTimeClock from './All_practice/New small thapa video/RealTimeClock'
 
 
 
@@ -22,7 +22,7 @@ const App = () => {
      {/* <Covid/> */}
      {/* <CounterApp/> */}
      {/* <Clock/> */}
-    <RealTimeClock/>
+    {/* <RealTimeClock/> */}
     </>
   )
 }
